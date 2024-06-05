@@ -27,3 +27,16 @@ Use color for text colors<br>
 Use font-family for text fonts<br>
 Use font-size for text sizes<br>
 Use text-align for text alignment<br>
+
+## HTML Formatting
+Tag	Description<br>
+<b>	Defines bold text<br>
+<em>	Defines emphasized text<br>
+<i>	Defines a part of text in an alternate voice or mood<br>
+<small>	Defines smaller text<br>
+<strong>	Defines important text<br>
+<sub>	Defines subscripted text<br>
+<sup>	Defines superscripted text<br>
+<ins>	Defines inserted text<br>
+<del>	Defines deleted text<br>
+<mark>	Defines marked/highlighted text<br>
