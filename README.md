@@ -19,3 +19,11 @@ The alt attribute of <img> provides an alternate text for an image<br>
 The style attribute is used to add styles to an element, such as color, font, size, and more<br>
 The lang attribute of the <html> tag declares the language of the Web page<br>
 The title attribute defines some extra information about an element<br>
+
+## HTML Styles
+Use the style attribute for styling HTML elements<br>
+Use background-color for background color<br>
+Use color for text colors<br>
+Use font-family for text fonts<br>
+Use font-size for text sizes<br>
+Use text-align for text alignment<br>
